@@ -1,2 +1,2 @@
 # phpnautas
-Bienvenidxs a PHP Nautas
+Bienvenidxs a PHP Nautas :)
